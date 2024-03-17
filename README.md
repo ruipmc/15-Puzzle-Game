@@ -10,7 +10,7 @@ In this project we implemented a simple interface so we can play the game and so
 
 
 **Autors**:
-- [Rui Coelho] (https://github.com/ruipmc)
+- [Rui Coelho](https://github.com/ruipmc)
 - [Alexandre Marques]
 - [Miguel Silva]
 
