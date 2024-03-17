@@ -20,7 +20,7 @@ In this project we implemented a simple interface so we can play the game and so
 To install the requirements run:
 
 ```bash
-pip install -r requirements.txt
+pip install tk
 ```
 
 # Usage
